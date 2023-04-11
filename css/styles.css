@@ -29,6 +29,9 @@ input {
 .afiliar {
     text-align: center;
 }
-footer.h1 {
+footer h1 {
+    color: white;
+}
+footer p {
     color: white;
 }
