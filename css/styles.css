@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css");
+
+* {
+    margin: 10px;
+    padding: 10px;
+    color: black;
+}
+
+main {
+    background-color: lightskyblue;
+    
+}
+button {
+    border-radius: 1px;
+    color: black;
+}
+footer {
+    background-color: rgb(10, 10, 10);
+    font-weight: 700;
+    padding: 10px;
+}
+
+input {
+    background-color: white !important;
+}
+
+.afiliar {
+    text-align: center;
+}
