@@ -23,9 +23,12 @@ footer {
 }
 
 input {
-    background-color: white !important;
+    background-color: white ;
 }
 
 .afiliar {
     text-align: center;
+}
+footer.h1 {
+    color: white;
 }
